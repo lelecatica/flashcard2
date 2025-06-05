@@ -4,9 +4,9 @@ body {
 }
 
 #container {
-     display: flex;
-}
+     display: flex;/* Elementos dispostos em linha */
 
+}
 .cartao {
     margin: 1rem 1rem;
     background-color: lightpink;
@@ -21,7 +21,9 @@ body {
 
 
 
-
+.cartao__conteudo h3 {
+ background-color: darkmagenta;
+}
 
 footer {
     background-color: black;
