@@ -12,15 +12,13 @@ body {
 #container {
     display: flex;/* Elementos dispostos em linha */
 }
-
 .cartao {
     margin: 1rem 1rem;
     background-color: lightpink;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(33% - 6rem);
+ flex-basis: calc(33% - 6rem);
 }
-
 
 .cartao__conteudo {
     text-align: center;
