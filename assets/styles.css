@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: fuchsia;
+    background: url(img/_\ \(1\).jpeg);
     font-family: Bai Jamjuree;
 }
 
 #container {
     display: flex;/* Elementos dispostos em linha */
-    
+
 }
 .cartao {
     margin: 1rem 1rem;
